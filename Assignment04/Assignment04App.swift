@@ -1,0 +1,17 @@
+//
+//  Assignment04App.swift
+//  Assignment04
+//
+//  Created by Barrett Emerson on 4/6/26.
+//
+
+import SwiftUI
+
+@main
+struct Assignment04App: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
